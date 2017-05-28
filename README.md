@@ -1,5 +1,5 @@
 # Angular2_boiler_plate_lite-server
-commands-
->sudo npm install typings -g
->npm install
->npm start
+commands-<br>
+>sudo npm install typings -g<br>
+>npm install<br>
+>npm start<br>
